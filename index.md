@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## This page is currently under construction! Please check back later
 
-You can use the [editor on GitHub](https://github.com/aac05/aac05.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thursday November 18 - Friday November 19, 2021 
+Venue: Online, hosted by the University of Western Australia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conference booklet
 
-```markdown
-Syntax highlighted code block
+To do
 
-# Header 1
-## Header 2
-### Header 3
+| Time slot | Person | Talk title |
+|:--:|:--:|:--:|
+| To do | to do | to do |
 
-- Bulleted
-- List
+## Information about talks
 
-1. Numbered
-2. List
+Zoom details - to do
 
-**Bold** and _Italic_ and `Code` text
+## Plenary Talks
 
-[Link](url) and ![Image](src)
-```
+To do
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Gordon Preston Prize
 
-### Jekyll Themes
+The [Gordon Preston Prize](https://austalg.ltumathstats.com/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://austalg.ltumathstats.com/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aac05/aac05.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Organisers
+To do
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Sponsors
+
+To do

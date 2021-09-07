@@ -1,6 +1,6 @@
 ## This page is currently under construction! Please check back later
 
-Thursday November 18 - Friday November 19, 2021 
+Thursday November 18 - Friday November 19, 2021\
 Venue: Online, hosted by the University of Western Australia
 
 

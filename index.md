@@ -16,12 +16,12 @@ The conference booklet will be available once registrations have been finalised.
 
 ## Timetable
 
-Thursday 18th
+### Thursday 18th
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
 | TBA | TBA | TBA |
 
-Friday 19th
+### Friday 19th
 | Time | Speaker | Talk title |
 |:--:|:--:|:--:|
 | TBA | TBA | TBA |

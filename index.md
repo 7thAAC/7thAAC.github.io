@@ -17,18 +17,21 @@ The conference booklet will be available once registrations have been finalised.
 ## Timetable
 
 Thursday 18th
-| Time | Speaker | Talk title | Slides | Recording |
-|:--:|:--:|:--:|:--:|:--:|
-| TBA | TBA | TBA | | |
+| Time | Speaker | Talk title | 
+|:--:|:--:|:--:|
+| TBA | TBA | TBA |
 
 Friday 19th
-| Time | Speaker | Talk title | Slides | Recording |
-|:--:|:--:|:--:|:--:|:--:|
-| TBA | TBA | TBA | | |
+| Time | Speaker | Talk title |
+|:--:|:--:|:--:|
+| TBA | TBA | TBA |
 
 ## Information about talks
 
 Zoom details - to come
+
+## Talk slides and recordings
+TBA
 
 ## Plenary Talks
 

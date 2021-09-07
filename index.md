@@ -7,33 +7,41 @@
 
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
-## Registration details
-To do
+## Register
+Under constructioin
 
 ## Conference booklet
 
-To do
+The conference booklet will be available once registrations have been finalised.
 
-| Time slot | Person | Talk title |
+## Timetable
+
+Thursday 18th
+| Time | Speaker | Talk title |
 |:--:|:--:|:--:|
-| To do | to do | to do |
+| - | - | - |
+
+Friday 19th
+| Time | Speaker | Talk title |
+|:--:|:--:|:--:|
+| - | - | - |
 
 ## Information about talks
 
-Zoom details - to do
+Zoom details - to come
 
 ## Plenary Talks
 
-To do
+TBA
 
 ## Gordon Preston Prize
 
 The [Gordon Preston Prize](https://austalg.ltumathstats.com/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://austalg.ltumathstats.com/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 ## Organisers
-To do
+TBA
 
 
 ## Sponsors
 
-To do
+TBA

@@ -1,14 +1,14 @@
 ## This page is currently under construction! Please check back later
 
 ## Details
-- When: Thursday November 18 - Friday November 19, 2021
-- Venue: Online, hosted by the University of Western Australia
-- Free registration
 
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
+- When: Thursday November 18 - Friday November 19, 2021
+- Venue: Online, hosted by the University of Western Australia
+
 ## Register
-Under constructioin
+Registration is free. Details to come.
 
 ## Conference booklet
 

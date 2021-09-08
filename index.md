@@ -7,8 +7,20 @@ The aim of the annual Australian Algebra Conference is to foster communication b
 - **When**: Thursday November 18 - Friday November 19, 2021
 - **Venue**: Online, hosted by the University of Western Australia
 
-## Register
-Registration is free. Details to come.
+## Registration
+Registration is free.
+
+- **Registration closes**: TBA
+
+To register, please email TBA with the abstract and title of your talk. Abstracts should ... TBA
+
+## Plenary Talks
+
+TBA
+
+## Gordon Preston Prize
+
+The [Gordon Preston Prize](https://austalg.ltumathstats.com/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://austalg.ltumathstats.com/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 ## Conference booklet
 
@@ -34,14 +46,6 @@ Zoom details - to come
 
 ## Talk slides and recordings
 TBA
-
-## Plenary Talks
-
-TBA
-
-## Gordon Preston Prize
-
-The [Gordon Preston Prize](https://austalg.ltumathstats.com/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://austalg.ltumathstats.com/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 ## Organisers
 - [John Bamberg](https://johnbamberg.github.io/), the University of Western Australia

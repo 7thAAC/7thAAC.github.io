@@ -44,10 +44,11 @@ TBA
 The [Gordon Preston Prize](https://austalg.ltumathstats.com/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://austalg.ltumathstats.com/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 ## Organisers
-- John Bamberg, the University of Western Australia
-- Jesse Lansdown, the University of Western Australia
-- Michael Giudici, the University of Western Australia
-- Stephen Glasby, the University of Western Australia
+- [John Bamberg](https://johnbamberg.github.io/), the University of Western Australia
+- [Jesse Lansdown](https://www.jesselansdown.com/), the University of Western Australia
+- [Michael Giudici](https://research-repository.uwa.edu.au/en/persons/michael-giudici), the University of Western Australia
+- [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
+- [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
 
 ## Sponsors
 

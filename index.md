@@ -63,8 +63,21 @@ The current default is that talks will be recorded. If you do not want your talk
 - [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
 - [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
 
-<script>
-    var date = new Date('Tue, 21 Apr 2020 09:20:30 GMT');
-    console.log(date.toString());
-    console.log(date.toUTCString());
-</script>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>JavaScript Convert UTC Date Time to Local Date Time</title>
+</head>
+<body>
+    <script>
+        // Create date object from datetime string
+        var date = new Date('Tue, 21 Apr 2020 09:20:30 GMT');
+        
+        // Coverting to local datetime 
+        document.write(date.toString() + "<br>");
+        
+        // Coverting local datetime back to UTC
+        document.write(date.toUTCString()); // Tue, 21 Apr 2020 09:20:30 GMT
+    </script>
+</body>
+</html>

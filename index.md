@@ -13,8 +13,9 @@ Registration is free.
 - **Registration closes**: 16th of November, 2021
 - **Abstract and contributed talk submission**: 3rd of November, 2021
 
-To register, please email TBA with the abstract and title of your talk. Abstracts should ... TBA
+If you wish to give a contributed talk, please submit your title and abstract when registering. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
+To register, please fill in this form.
 
 ## Plenary Talks
 
@@ -47,10 +48,6 @@ The conference booklet will be available once registrations have been finalised.
 | Time | Speaker | Talk title |
 |:--:|:--:|:--:|
 | TBA | TBA | TBA |
-
-## Information about talks
-
-Zoom details - to come
 
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

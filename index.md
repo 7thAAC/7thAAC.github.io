@@ -2,7 +2,8 @@
 ![aag](/aag_image.jpg){: style="float: left;  margin-right: 1em;"}
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
-- **When**: Wednesday November 17 - Friday November 19, 2021. (12:00 PM - 5:00 PM Perth time, which should be <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> - <script> var date = new Date('Wed, 17 Nov 2021 09:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> in your time )
+- **Dates**: Wednesday November 17 - Friday November 19, 2021. 
+- **Times** 12:00 PM - 5:00 PM Perth time (which should be <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> - <script> var date = new Date('Wed, 17 Nov 2021 09:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> in your time )
 - **Venue**: Online, hosted by the University of Western Australia
 
 ## Registration

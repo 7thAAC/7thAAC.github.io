@@ -53,7 +53,7 @@ The conference booklet will be available once registrations have been finalised.
 Zoom details - to come
 
 ## Talk slides and recordings
-TBA
+The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.
 
 ## Organisers
 - [John Bamberg](https://johnbamberg.github.io/), the University of Western Australia

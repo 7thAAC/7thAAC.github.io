@@ -15,7 +15,7 @@ Registration is free.
 
 If you wish to give a contributed talk, please submit your title and abstract when registering. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
-To register, please fill in this form.
+To register, please fill in this form (link to come).
 
 ## Plenary Talks
 

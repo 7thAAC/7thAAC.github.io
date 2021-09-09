@@ -13,7 +13,7 @@ Registration is free.
 - **Registration closes**: 16th of November, 2021
 - **Abstract and contributed talk submission**: 3rd of November, 2021
 
-If you wish to give a contributed talk, please send your title and abstract to 5th.Australian.Algebra.Conference@gmail.com by the 16th of November. **Note, you do not need to have your title/abstract ready in order to register**. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
+If you wish to give a contributed talk, please send your title and abstract to [5th.Australian.Algebra.Conference@gmail.com](mailto:5th.Australian.Algebra.Conference@gmail.com) by the 16th of November. **Note, you do not need to have your title/abstract ready in order to register**. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
 To register, please fill in this form (link to come).
 

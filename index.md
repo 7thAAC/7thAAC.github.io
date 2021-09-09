@@ -33,7 +33,7 @@ The conference booklet will be available once registrations have been finalised.
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| TBA | TBA | TBA |
+| 4:00 PM ( <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString());</script> ) | TBA | TBA |
 
 #### Thursday 18th
 
@@ -62,8 +62,3 @@ The current default is that talks will be recorded. If you do not want your talk
 - [Michael Giudici](https://research-repository.uwa.edu.au/en/persons/michael-giudici), the University of Western Australia
 - [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
 - [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
-
-    <script>
-        var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');
-        document.write(date.toLocaleTimeString());        
-    </script>

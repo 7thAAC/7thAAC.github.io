@@ -70,6 +70,4 @@ The current default is that talks will be recorded. If you do not want your talk
         // Coverting to local datetime 
         document.write(date.toString() + "<br>");
         
-        // Coverting local datetime back to UTC
-        document.write(date.toUTCString()); // Tue, 21 Apr 2020 09:20:30 GMT
     </script>

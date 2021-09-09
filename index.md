@@ -33,7 +33,7 @@ The conference booklet will be available once registrations have been finalised.
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| 4:00 pm ( <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString());</script> locally ) | TBA | TBA |
+| 4:00 pm ( <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> in your time ) | TBA | TBA |
 
 #### Thursday 18th
 

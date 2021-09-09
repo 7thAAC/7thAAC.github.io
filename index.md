@@ -33,19 +33,19 @@ The conference booklet will be available once registrations have been finalised.
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| 4:00 PM ( Your time: <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
+| 4:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
 
 #### Thursday 18th
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| 4:00 PM ( Your time: <script> var date = new Date('Thu, 18 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
+| 4:00 PM ( locally <script> var date = new Date('Thu, 18 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
 
 #### Friday 19th
 
 | Time | Speaker | Talk title |
 |:--:|:--:|:--:|
-| 4:00 PM ( Your time: <script> var date = new Date('Fri, 19 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
+| 4:00 PM ( locally <script> var date = new Date('Fri, 19 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
 
 ## Participants
 The list of participants will be updated as registrations come in.

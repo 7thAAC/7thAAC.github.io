@@ -4,7 +4,7 @@
 
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
-- **When**: Wednesday November 17 - Friday November 19, 2021
+- **When**: Wednesday November 17 - Friday November 19, 2021. (12:00 - 17:00 Perth time)
 - **Venue**: Online, hosted by the University of Western Australia
 
 ## Registration
@@ -13,7 +13,7 @@ Registration is free.
 - **Registration closes**: 16th of November, 2021
 - **Abstract and contributed talk submission**: 3rd of November, 2021
 
-To register, please fill in the following webform...
+To register, please email TBA with the abstract and title of your talk. Abstracts should ... TBA
 
 
 ## Plenary Talks
@@ -30,7 +30,7 @@ The conference booklet will be available once registrations have been finalised.
 
 ## Timetable
 
-#### Thursday 17th
+#### Wednesday 17th
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
@@ -61,7 +61,3 @@ TBA
 - [Michael Giudici](https://research-repository.uwa.edu.au/en/persons/michael-giudici), the University of Western Australia
 - [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
 - [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
-
-## Sponsors
-
-TBA

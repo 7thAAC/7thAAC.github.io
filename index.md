@@ -64,6 +64,6 @@ The current default is that talks will be recorded. If you do not want your talk
 - [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
 
     <script>
-        var date = new Date('09:20:30 GMT');
-        document.write(date.toString() + "<br>");        
+        var date = new Date('8:00:00 GMT');
+        document.write(date.toLocaleTimeString());        
     </script>

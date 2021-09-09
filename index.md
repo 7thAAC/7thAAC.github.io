@@ -62,3 +62,9 @@ The current default is that talks will be recorded. If you do not want your talk
 - [Michael Giudici](https://research-repository.uwa.edu.au/en/persons/michael-giudici), the University of Western Australia
 - [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
 - [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
+
+<script>
+    var date = new Date('Tue, 21 Apr 2020 09:20:30 GMT');
+    console.log(date.toString());
+    console.log(date.toUTCString());
+</script>

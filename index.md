@@ -1,5 +1,5 @@
 ## Details
-[aag](/aag_image.jpg)
+![aag](/aag_image.jpg)
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
 - **When**: Wednesday November 17 - Friday November 19, 2021. (12:00 - 17:00 Perth time)

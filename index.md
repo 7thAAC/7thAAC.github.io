@@ -13,7 +13,7 @@ Registration is free.
 - **Registration closes**: 16th of November, 2021
 - **Abstract and contributed talk submission**: 3rd of November, 2021
 
-To register, please email TBA with the abstract and title of your talk. Abstracts should ... TBA
+To register, please fill in the following webform...
 
 
 ## Plenary Talks

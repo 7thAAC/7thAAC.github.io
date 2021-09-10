@@ -16,7 +16,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 - **To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_hwzoE3pEZTgJG2SXZ1RqtzguACgpOL2jfu5ESBEh25oe6g/viewform?usp=sf_link).**
 
-## Plenary talks
+## Plenary speakers
 
 - [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/)
 - [Eugenio Giannelli](https://eugeniomaths.wordpress.com/)

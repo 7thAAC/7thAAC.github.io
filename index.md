@@ -19,7 +19,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 ## Plenary talks
 
 - [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/)
-- [alejandra.garrido@uam.es](https://eugeniomaths.wordpress.com/)
+- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/)
 - TBA
 
 ## Gordon Preston Prize

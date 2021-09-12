@@ -1,5 +1,5 @@
 ## Details
-![aag](/M3trans.png){: style="float: left;  margin-right: 1em;"}
+<img src="/M3trans.png" width="100"> 
 The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://austalg.ltumathstats.com/), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
 - **Dates**: Wednesday November 17 - Friday November 19, 2021. 
@@ -18,9 +18,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 ## Plenary speakers
 - [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/)
-- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze <br/>
-<img src="PHOTO-2021-09-10-12-48-52.jpg" width="200"> 
-
+- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze <br/> <img src="PHOTO-2021-09-10-12-48-52.jpg" width="200"> 
 - TBA
 
 ## Gordon Preston Prize

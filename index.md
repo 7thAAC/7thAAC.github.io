@@ -19,7 +19,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 ## Plenary speakers
 - [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/)
 
-<img src="PHOTO-2021-09-10-12-48-52.jpg" width="100" height="100"> [Eugenio Giannelli](https://eugeniomaths.wordpress.com/)
+<img src="PHOTO-2021-09-10-12-48-52.jpg" width="100"> [Eugenio Giannelli](https://eugeniomaths.wordpress.com/)
 
 - TBA
 

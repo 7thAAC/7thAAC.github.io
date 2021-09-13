@@ -5,7 +5,7 @@
 - **Times**: 12:00 PM - 5:00 PM Perth time (should be <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> - <script> var date = new Date('Wed, 17 Nov 2021 09:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> your time)
 - **Venue**: Online, hosted by the [Centre for the Mathematics of Symmetry and Computation](https://www.cmsc.io/), [the University of Western Australia](www.uwa.edu.au/)
 
-![aag](/UWA Aerial - Sunrise-1.jpg){: height="20%" width="20%"}
+![aag](/UWA Aerial - Sunrise-1.jpg){: height="50%" width="50%"}
 
 ## Registration
 Registration is free.

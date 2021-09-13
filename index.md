@@ -58,6 +58,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 The list of participants will be updated as registrations come in.
 
 - John Bamberg, the University of Western Australia
+- Murray Elder, University of Technology Sydney
 - Jesse Lansdown, the University of Western Australia
 
 ## Talk slides and recordings

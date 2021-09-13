@@ -32,6 +32,8 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 The conference booklet will be available once registrations have been finalised.
 
 ## Timetable
+The timetable will be available once registrations have been finalised.
+
 Note: Official times are given in Perth time. Local time is intended to be helpful, but it is up to you to check it is correct.
 
 #### Wednesday 17th

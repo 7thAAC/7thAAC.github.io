@@ -1,11 +1,12 @@
-![aag](/UWA Aerial - Sunrise-1.jpg){: height="100%" width="100%"}
-
 ## Details
 ![aag](/M3trans.png){: style="float: left;  margin-right: 1em;" height="20%" width="20%"} The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
 - **Dates**: Wednesday November 17 - Friday November 19, 2021. 
 - **Times**: 12:00 PM - 5:00 PM Perth time (should be <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> - <script> var date = new Date('Wed, 17 Nov 2021 09:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> your time).
 - **Venue**: Online, hosted by the [Centre for the Mathematics of Symmetry and Computation](https://www.cmsc.io/), [the University of Western Australia](www.uwa.edu.au/).
+
+See below for more information.<br/>
+![aag](/UWA Aerial - Sunrise-1.jpg){: height="100%" width="100%"}
 
 ## Registration
 Registration is free.

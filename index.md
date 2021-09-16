@@ -16,7 +16,7 @@ Registration is free.
 
 If you wish to give a contributed talk, please send your title and abstract to [5th.Australian.Algebra.Conference@gmail.com](mailto:5th.Australian.Algebra.Conference@gmail.com) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
-**Note, you do not need to have your title/abstract ready in order to register. If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk - don't let this hold you back!**
+**Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk - don't let this hold you back!
 
 - **To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_hwzoE3pEZTgJG2SXZ1RqtzguACgpOL2jfu5ESBEh25oe6g/viewform?usp=sf_link).**
 

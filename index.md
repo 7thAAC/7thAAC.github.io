@@ -61,6 +61,7 @@ The list of participants will be updated as registrations come in.
 
 - John Bamberg, the University of Western Australia
 - Murray Elder, University of Technology Sydney
+- Michael Giudici, the University of Western Australia
 - Stephen Glasby, the University of Western Australia
 - Roozbeh Hazrat, Western Sydney University
 - Jesse Lansdown, the University of Western Australia

@@ -59,6 +59,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 ## Participants
 The list of participants will be updated as registrations come in.
 
+- Ramon Abud Alcala, Macquarie University
 - John Bamberg, the University of Western Australia
 - Max Carter, the University of Newcastle
 - Murray Elder, University of Technology Sydney

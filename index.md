@@ -60,13 +60,16 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
-- John Bamberg, the University of Western Australia
-- Max Carter, the University of Newcastle
+- John Bamberg, The University of Western Australia
+- Max Carter, The University of Newcastle
 - Murray Elder, University of Technology Sydney
-- Michael Giudici, the University of Western Australia
-- Stephen Glasby, the University of Western Australia
+- Alejandra Garrido, Universidad Autónoma de Madrid
+- Eugenio Giannelli, Università degli Studi di Firenze
+- Michael Giudici, The University of Western Australia
+- Stephen Glasby, University of Western Australia
 - Roozbeh Hazrat, Western Sydney University
-- Jesse Lansdown, the University of Western Australia
+- Jesse Lansdown, The University of Western Australia
+- Melissa Lee, University of Auckland
 
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

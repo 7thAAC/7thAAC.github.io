@@ -42,13 +42,14 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| 4:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
+| 4:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Alejandra Garrido | TBA |
 
 #### Thursday 18th
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
-| 4:00 PM ( locally <script> var date = new Date('Thu, 18 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
+| 4:00 PM ( locally <script> var date = new Date('Thu, 18 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Eugenio Giannelli | TBA |
+| | | |
 
 #### Friday 19th
 
@@ -62,15 +63,19 @@ The list of participants will be updated as registrations come in.
 - Ramon Abud Alcala, Macquarie University
 - John Bamberg, The University of Western Australia
 - Max Carter, The University of Newcastle
+- Heiko Dietrich, Monash University
 - Murray Elder, University of Technology Sydney
 - Alejandra Garrido, Universidad Autónoma de Madrid
 - Eugenio Giannelli, Università degli Studi di Firenze
 - Michael Giudici, The University of Western Australia
 - Stephen Glasby, University of Western Australia
 - Roozbeh Hazrat, Western Sydney University
+- Deborah Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
+- John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
+- Lauren Thornton, University of the Sunshine Coast
 
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

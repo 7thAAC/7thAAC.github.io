@@ -63,6 +63,7 @@ The list of participants will be updated as registrations come in.
 - John Bamberg, The University of Western Australia
 - Max Carter, The University of Newcastle
 - Heiko Dietrich, Monash University
+- James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
 - Alejandra Garrido, Universidad Autónoma de Madrid
 - Eugenio Giannelli, Università degli Studi di Firenze
@@ -72,9 +73,12 @@ The list of participants will be updated as registrations come in.
 - Deborah Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
+- Bregje Pauwels, The University of Sydney
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
+- Kane Townsend, The University of Sydney
+- Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
 
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

@@ -49,7 +49,6 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
 | 4:00 PM ( locally <script> var date = new Date('Thu, 18 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Eugenio Giannelli | TBA |
-| | | |
 
 #### Friday 19th
 

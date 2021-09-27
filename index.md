@@ -26,10 +26,6 @@ If you wish to give a contributed talk, please send your title and abstract to [
 |:--:|:--:|:--:|
 [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/), Universidad Autónoma de Madrid, Spain. | [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze, Italy. |[Melissa Lee](https://melissamaths.wordpress.com/), University of Auckland, New Zealand. |
 
-- [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/), Universidad Autónoma de Madrid, Spain. <br/> <img src="avatar.jpg" style="object-fit:cover;width:200px;height:300px;">
-- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze, Italy. <br/> <img src="PHOTO-2021-09-10-12-48-52.jpg" style="object-fit:cover;width:200px;height:300px;"> 
-- [Melissa Lee](https://melissamaths.wordpress.com/), University of Auckland, New Zealand. <br/> <img src="Lee_Photo2.png" style="object-fit:cover;width:200px;height:300px;"> 
-
 ## Gordon Preston Prize
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 

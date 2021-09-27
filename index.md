@@ -60,7 +60,6 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 ## Participants
 <details>
 <summary> The list of participants will be updated as registrations come in. Click to expand the list.</summary>
-<p></p>
 
 - Ramon Abud Alcala, Macquarie University
 - John Bamberg, The University of Western Australia

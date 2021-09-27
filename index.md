@@ -78,6 +78,7 @@ The list of participants will be updated as registrations come in.
 - Cheryl Praeger, The University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
+- Ilknur Tulunay, UNSW
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
 
 ## Talk slides and recordings

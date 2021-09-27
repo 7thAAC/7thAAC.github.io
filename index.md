@@ -22,8 +22,8 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 ## Plenary speakers
 - [Alejandra Garrido](https://verso.mat.uam.es/~alejandra.garrido/), Universidad Autónoma de Madrid, Spain. <br/> <img src="avatar.jpg" style="object-fit:cover;width:200px;height:300px;">
-- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze, Italy. <br/> <img src="PHOTO-2021-09-10-12-48-52.jpg" width="200"> 
-- [Melissa Lee](https://melissamaths.wordpress.com/), University of Auckland, New Zealand. <br/> <img src="Lee_Photo2.png" width="200"> 
+- [Eugenio Giannelli](https://eugeniomaths.wordpress.com/), Università degli Studi di Firenze, Italy. <br/> <img src="PHOTO-2021-09-10-12-48-52.jpg" style="object-fit:cover;width:200px;height:300px;"> 
+- [Melissa Lee](https://melissamaths.wordpress.com/), University of Auckland, New Zealand. <br/> <img src="Lee_Photo2.png" style="object-fit:cover;width:200px;height:300px;"> 
 
 ## Gordon Preston Prize
 

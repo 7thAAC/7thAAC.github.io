@@ -58,8 +58,8 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 | 4:00 PM ( locally <script> var date = new Date('Fri, 19 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
 
 ## Participants
-<details>
-<summary> The list of participants will be updated as registrations come in. Click to expand the list.</summary>
+
+The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
 - John Bamberg, The University of Western Australia
@@ -82,7 +82,6 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
-</details>
   
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

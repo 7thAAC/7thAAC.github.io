@@ -58,10 +58,8 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 | 4:00 PM ( locally <script> var date = new Date('Fri, 19 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | TBA | TBA |
 
 ## Participants
-The list of participants will be updated as registrations come in.
-
 <details>
-<summary>Click to expand.</summary>
+<summary> The list of participants will be updated as registrations come in. Click to expand the list.</summary>
 <p></p>
 
 - Ramon Abud Alcala, Macquarie University

@@ -23,9 +23,9 @@ If you wish to give a contributed talk, please send your title and abstract to [
 ## Plenary speakers
 <table>
   <tr>
-    <th>A</th>
-    <th>B</th>
-    <th>C</th>
+    <th><img src="avatar.jpg" style="object-fit:cover;width:200px;height:300px;"></th>
+    <th><img src="PHOTO-2021-09-10-12-48-52.jpg" style="object-fit:cover;width:200px;height:300px;"></th>
+    <th><img src="Lee_Photo2.png" style="object-fit:cover;width:200px;height:300px;"></th>
   </tr>
 </table>
 

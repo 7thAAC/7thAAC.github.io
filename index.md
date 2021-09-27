@@ -60,6 +60,10 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 ## Participants
 The list of participants will be updated as registrations come in.
 
+<details>
+<summary>Click to expand.</summary>
+<p></p>
+
 - Ramon Abud Alcala, Macquarie University
 - John Bamberg, The University of Western Australia
 - Max Carter, The University of Newcastle
@@ -81,7 +85,8 @@ The list of participants will be updated as registrations come in.
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
-
+</details>
+  
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.
 

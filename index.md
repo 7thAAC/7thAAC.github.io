@@ -75,13 +75,16 @@ The list of participants will be updated as registrations come in.
 - Deborah Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
+- Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Bregje Pauwels, The University of Sydney
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
+- Gordon Royle, University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
+- Willie Wong, National Institute of Education of Singapore
   
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

@@ -76,6 +76,7 @@ The list of participants will be updated as registrations come in.
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
+- Luke Mathieson, University of Technology Sydney
 - Bregje Pauwels, The University of Sydney
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia

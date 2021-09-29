@@ -20,7 +20,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 - **To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_hwzoE3pEZTgJG2SXZ1RqtzguACgpOL2jfu5ESBEh25oe6g/viewform?usp=sf_link).**
 
-## Plenary speakers
+## Invited speakers
 
 | <img src="avatar.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="PHOTO-2021-09-10-12-48-52.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="Lee_Photo2.png" style="object-fit:cover;width:150px;height:225px;"> |
 |:--:|:--:|:--:|

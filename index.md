@@ -75,6 +75,7 @@ The list of participants will be updated as registrations come in.
 - Deborah Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
+- Florian Lehner, Graz University of Technology
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Luke Mathieson, University of Technology Sydney
 - Bregje Pauwels, The University of Sydney

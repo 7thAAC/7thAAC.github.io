@@ -85,6 +85,7 @@ The list of participants will be updated as registrations come in.
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
+- Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
 - Willie Wong, National Institute of Education of Singapore
   

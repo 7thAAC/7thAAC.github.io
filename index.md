@@ -64,6 +64,8 @@ The list of participants will be updated as registrations come in.
 - Ramon Abud Alcala, Macquarie University
 - John Bamberg, The University of Western Australia
 - Max Carter, The University of Newcastle
+- Su Yuan Chan, Deakin University
+- Brian Davey, La Trobe University
 - Heiko Dietrich, Monash University
 - James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
@@ -78,6 +80,7 @@ The list of participants will be updated as registrations come in.
 - Florian Lehner, Graz University of Technology
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Luke Mathieson, University of Technology Sydney
+- Kerri Morgan, Deakin University
 - Bregje Pauwels, The University of Sydney
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia

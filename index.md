@@ -73,6 +73,7 @@ The list of participants will be updated as registrations come in.
 - Eugenio Giannelli, Università degli Studi di Firenze
 - Michael Giudici, The University of Western Australia
 - Stephen Glasby, University of Western Australia
+- Miroslav Haviar, Matej Bel University
 - Roozbeh Hazrat, Western Sydney University
 - Deborah Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia

@@ -65,6 +65,7 @@ The list of participants will be updated as registrations come in.
 - John Bamberg, The University of Western Australia
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
+- Andrew Craig, University of Johannesburg
 - Brian Davey, La Trobe University
 - Heiko Dietrich, Monash University
 - James East, Western Sydney University

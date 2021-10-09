@@ -62,7 +62,9 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
+- Ibrahim  Alotaibi, USYD
 - John Bamberg, The University of Western Australia
+- Santiago Barrera Acevedo, Monash University
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
 - Andrew Craig, University of Johannesburg

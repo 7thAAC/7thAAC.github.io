@@ -96,7 +96,9 @@ The list of participants will be updated as registrations come in.
 - Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
 - Willie Wong, National Institute of Education of Singapore
+- Kai Siong Yow, Universiti Putra Malaysia
 - Shasha Zheng, The University of Melbourne
+
   
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.

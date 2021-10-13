@@ -89,10 +89,12 @@ The list of participants will be updated as registrations come in.
 - Adam Piggott, Australian National University
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
+- Youming Qiao, University of Technology Sydney
 - Gordon Royle, University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
+- Giada Volpato, Università degli Studi di Firenze
 - Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology
 - Willie Wong, National Institute of Education of Singapore

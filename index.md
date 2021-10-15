@@ -63,8 +63,10 @@ The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
 - Ibrahim  Alotaibi, USYD
+- Ali  Asiri, Finders University
 - John Bamberg, The University of Western Australia
 - Santiago Barrera Acevedo, Monash University
+- Jim Byrnes, Prometheus Inc.
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
 - Andrew Craig, University of Johannesburg
@@ -72,6 +74,7 @@ The list of participants will be updated as registrations come in.
 - Heiko Dietrich, Monash University
 - James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
+- Richard Garner, Macquarie University
 - Alejandra Garrido, Universidad Autónoma de Madrid
 - Eugenio Giannelli, Università degli Studi di Firenze
 - Michael Giudici, The University of Western Australia
@@ -82,6 +85,7 @@ The list of participants will be updated as registrations come in.
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
+- Kevin Limanta, UNSW Sydney
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University
@@ -90,6 +94,7 @@ The list of participants will be updated as registrations come in.
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
 - Youming Qiao, University of Technology Sydney
+- Nahlia Rakhmawati, Barawijaya University, Indonesia
 - Gordon Royle, University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney

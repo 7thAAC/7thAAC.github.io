@@ -20,7 +20,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 - **To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_hwzoE3pEZTgJG2SXZ1RqtzguACgpOL2jfu5ESBEh25oe6g/viewform?usp=sf_link).**
 <details>
-<summary>Link not working?</summary>
+<summary>Registration form not working? click here.</summary>
 If the registration link is blocked from you location, you can register by emailing us directly at 5th.Australian.Algebra.Conference@gmail.com with the following information: first name / last name / affiliation / are you giving a contributed talk? / are you eligible for the Gordon Preston Prize (student talk)?
 </details>
 

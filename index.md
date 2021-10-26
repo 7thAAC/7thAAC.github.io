@@ -86,7 +86,9 @@ The list of participants will be updated as registrations come in.
 - Stephen Glasby, University of Western Australia
 - Miroslav Haviar, Matej Bel University
 - Roozbeh Hazrat, Western Sydney University
+- Edmund Heng, Australian National University
 - Deborah Jackson, La Trobe University
+- Marcel Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
@@ -94,6 +96,7 @@ The list of participants will be updated as registrations come in.
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University
+- Kie Seng Nge, Australian National University
 - Bregje Pauwels, The University of Sydney
 - Adam Piggott, Australian National University
 - John Power, Macquarie University
@@ -103,6 +106,7 @@ The list of participants will be updated as registrations come in.
 - Gordon Royle, University of Western Australia
 - Phill Schultz, UWA
 - Tim Stokes, University of Waikato
+- Darryl Teo, University of Western Australia
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW

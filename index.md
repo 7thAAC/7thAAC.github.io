@@ -87,6 +87,7 @@ The list of participants will be updated as registrations come in.
 - Miroslav Haviar, Matej Bel University
 - Roozbeh Hazrat, Western Sydney University
 - Edmund Heng, Australian National University
+- Tamara Hogan, University of Melbourne 
 - Deborah Jackson, La Trobe University
 - Marcel Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia

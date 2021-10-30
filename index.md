@@ -66,6 +66,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
+- Jack Allsop, Monash University
 - Ibrahim  Alotaibi, USYD
 - Iin  Ariyanti, University of Muhammadiyah Banjarmasin
 - Ali  Asiri, Finders University
@@ -77,6 +78,7 @@ The list of participants will be updated as registrations come in.
 - Andrew Craig, University of Johannesburg
 - Brian Davey, La Trobe University
 - Heiko Dietrich, Monash University
+- Dung Duong, University of Wollongong
 - James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
 - Richard Garner, Macquarie University

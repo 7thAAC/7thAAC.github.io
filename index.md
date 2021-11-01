@@ -59,7 +59,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 
 | Time | Speaker | Talk title |
 |:--:|:--:|:--:|
-| 12:00 PM ( locally <script> var date = new Date('Fri, 19 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Melissa Lee | TBA |
+| 12:00 PM ( locally <script> var date = new Date('Fri, 19 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Melissa Lee | An algebraic tasting platter |
 
 ## Participants
 

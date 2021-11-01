@@ -75,6 +75,7 @@ The list of participants will be updated as registrations come in.
 - Jim Byrnes, Prometheus Inc.
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
+- Lei Chen, The University of Western Australia
 - Andrew Craig, University of Johannesburg
 - Brian Davey, La Trobe University
 - Heiko Dietrich, Monash University
@@ -93,19 +94,22 @@ The list of participants will be updated as registrations come in.
 - Deborah Jackson, La Trobe University
 - Marcel Jackson, La Trobe University
 - Jesse Lansdown, The University of Western Australia
+- Mihai-Silviu Lazorec, Faculty of Mathematics, "Alexandru Ioan Cuza" University of Iasi, Romania
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
 - Kevin Limanta, UNSW Sydney
 - Pankaj Manjhi, Vinoba Bhave University, Hazaribag
+- Pankaj Kumar  Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University
 - Kie Seng Nge, Australian National University
 - Bregje Pauwels, The University of Sydney
 - Adam Piggott, Australian National University
+- Tomasz Popiel, University of Auckland
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
 - Youming Qiao, University of Technology Sydney
-- Nahlia Rakhmawati, Barawijaya University, Indonesia
+- MAHENDRA  RANA, UNIVERSITY DEPARTMENT OF MATHEMATICS, VINOBA BHAVE UNIVERSITY, HAZARIBAG, INDIA
 - Gordon Royle, University of Western Australia
 - Phill Schultz, UWA
 - Tim Stokes, University of Waikato
@@ -113,6 +117,7 @@ The list of participants will be updated as registrations come in.
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
+- Ivo Vekemans, The Australian National University
 - Giada Volpato, Università degli Studi di Firenze
 - Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology

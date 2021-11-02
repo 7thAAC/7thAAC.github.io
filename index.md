@@ -77,11 +77,13 @@ The list of participants will be updated as registrations come in.
 - Su Yuan Chan, Deakin University
 - Lei Chen, The University of Western Australia
 - Andrew Craig, University of Johannesburg
+- John Cu, University of Technology Sydney
 - Brian Davey, La Trobe University
 - Heiko Dietrich, Monash University
 - Dung Duong, University of Wollongong
 - James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
+- Evelyn Gabinete, The University of Sydney
 - Richard Garner, Macquarie University
 - Alejandra Garrido, Universidad Autónoma de Madrid
 - Eugenio Giannelli, Università degli Studi di Firenze

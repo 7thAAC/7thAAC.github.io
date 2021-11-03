@@ -72,6 +72,7 @@ The list of participants will be updated as registrations come in.
 - Ali  Asiri, Finders University
 - John Bamberg, The University of Western Australia
 - Santiago Barrera Acevedo, Monash University
+- Alex Bishop, University of Sydney
 - Jim Byrnes, Prometheus Inc.
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University

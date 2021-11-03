@@ -79,6 +79,7 @@ The list of participants will be updated as registrations come in.
 - Andrew Craig, University of Johannesburg
 - John Cu, University of Technology Sydney
 - Brian Davey, La Trobe University
+- Alex de Lacy, Monash University
 - Heiko Dietrich, Monash University
 - Dung Duong, University of Wollongong
 - James East, Western Sydney University
@@ -90,6 +91,7 @@ The list of participants will be updated as registrations come in.
 - Michael Giudici, The University of Western Australia
 - Stephen Glasby, University of Western Australia
 - Miroslav Haviar, Matej Bel University
+- Daniel Hawtin, University of Rijeka
 - Roozbeh Hazrat, Western Sydney University
 - Edmund Heng, Australian National University
 - Tamara Hogan, University of Melbourne 

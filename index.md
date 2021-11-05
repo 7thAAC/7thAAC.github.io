@@ -45,6 +45,10 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 
 #### Wednesday 17th
 
+| Time | Stream A | Stream B | 
+|:--:|:--:|:--:|
+| 11:50 AM - 12:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 03:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Conference Welcome |  |
+
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|
 | 4:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 08:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Alejandra Garrido | TBA |

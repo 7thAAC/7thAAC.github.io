@@ -48,6 +48,10 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 | Time | Stream A | Stream B | 
 |:--:|:--:|:--:|
 | 11:50 AM - 12:00 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 03:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Conference Welcome |  |
+| 12:00 PM - 12:20 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Conference Welcome |  |
+| 12:30 PM - 12:50 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 04:30:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Conference Welcome |  |
+| 1:00 PM - 1:20 PM ( locally <script> var date = new Date('Wed, 17 Nov 2021 05:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 05:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Conference Welcome |  |
+
 
 | Time | Speaker | Talk title | 
 |:--:|:--:|:--:|

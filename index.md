@@ -130,7 +130,6 @@ The list of participants will be updated as registrations come in.
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
 - Kevin Limanta, UNSW Sydney
-- Pankaj Manjhi, Vinoba Bhave University, Hazaribag
 - Pankaj Kumar  Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University

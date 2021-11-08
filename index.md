@@ -136,7 +136,7 @@ The list of participants will be updated as registrations come in.
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
 - Youming Qiao, University of Technology Sydney
-- MAHENDRA  RANA, UNIVERSITY DEPARTMENT OF MATHEMATICS, VINOBA BHAVE UNIVERSITY, HAZARIBAG, INDIA
+- Mahendra Rana, Vinoba Bhave University, Hazaribag, India
 - Gordon Royle, University of Western Australia
 - Phill Schultz, UWA
 - Tim Stokes, University of Waikato

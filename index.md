@@ -47,7 +47,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 #### Wednesday 17th
 
 | Time | Stream A | Stream B | 
-|:--:|:--:|:--:|
+|:--|:--|:--|
 | 11:50 AM - 12:00 PM <br> ( locally <script> var date = new Date('Wed, 17 Nov 2021 03:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | **Conference Welcome** | **---** |
 | 12:00 PM - 12:20 PM <br/> ( locally <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Ian Wanless, "Maximally nonassociative quasigroups" |  **---** |
 | 12:30 PM - 12:50 PM <br/> ( locally <script> var date = new Date('Wed, 17 Nov 2021 04:30:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Wed, 17 Nov 2021 04:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Jack Allsop, "Solution to a question of Falconer on quasigroup varieties" |  **---** |
@@ -62,7 +62,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 #### Thursday 18th
 
 | Time | Stream A | Stream B | 
-|:--:|:--:|:--:|
+|:--|:--|:--|
 | 12:00 PM - 12:20 PM <br/> ( locally <script> var date = new Date('Thur, 18 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Thur, 18 Nov 2021 04:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Roozbeh Hazrat, "Irreducible representations of Leavitt algebras" | **---** |
 | 12:30 PM - 12:50 PM <br/> ( locally <script> var date = new Date('Thur, 18 Nov 2021 04:30:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Thur, 18 Nov 2021 04:50:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Ivo Vekemans, "Mackey and Tambara functors as $G$-commutative monoids" | **---** |
 | 1:00 PM - 1:20 PM <br/> ( locally <script> var date = new Date('Thur, 18 Nov 2021 05:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Thur, 18 Nov 2021 05:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | Kane Townsend, "Levi subgroups minimally containing Sylow subgroups" | **---** |
@@ -77,7 +77,7 @@ Note: Official times are given in Perth time. Local time is intended to be helpf
 #### Friday 19th
 
 | Time | Stream A | Stream B | 
-|:--:|:--:|:--:|
+|:--|:--|:--|
 | 12:00 PM - 12:45 PM <br/> ( locally <script> var date = new Date('Fri, 19 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Fri, 19 Nov 2021 04:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | **Melissa Lee, "An algebraic tasting platter"** | **---** |
 | 1:00 PM - 1:10 PM <br/> ( locally <script> var date = new Date('Fri, 19 Nov 2021 05:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Fri, 19 Nov 2021 05:20:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | **Presentation of Gordon Preston Prize & conference "photo"** | **---** |
 | 1:10 PM - 1:30 PM <br/> ( locally <script> var date = new Date('Fri, 19 Nov 2021 05:10:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> to <script> var date = new Date('Fri, 19 Nov 2021 05:30:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> ) | **break** | **break**  |

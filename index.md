@@ -137,6 +137,7 @@ The list of participants will be updated as registrations come in.
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University
 - Kie Seng Nge, Australian National University
+- Leonard Paleta, University of Southern Mindanao
 - Bregje Pauwels, The University of Sydney
 - Adam Piggott, Australian National University
 - Tomasz Popiel, University of Auckland

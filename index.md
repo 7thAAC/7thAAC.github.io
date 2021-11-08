@@ -102,6 +102,7 @@ The list of participants will be updated as registrations come in.
 - Lei Chen, The University of Western Australia
 - Andrew Craig, University of Johannesburg
 - John Cu, University of Technology Sydney
+- Eden Danielsen-Jensen
 - Brian Davey, La Trobe University
 - Alex de Lacy, Monash University
 - Heiko Dietrich, Monash University

@@ -9,7 +9,6 @@ See below for more information.<br/>
 {:refdef: style="text-align: center;"}
 ![My Image](/UWA Aerial - Sunrise-1.jpg)
 {: refdef}
-![aag](/UWA Aerial - Sunrise-1.jpg){: style="align: center;  margin-right: 1em;" height="100%" width="100%"}
 
 ## Registration
 Registration is free.

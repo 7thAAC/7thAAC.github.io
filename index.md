@@ -6,7 +6,7 @@
 - **Venue**: Online, hosted by the [Centre for the Mathematics of Symmetry and Computation](https://www.cmsc.io/), [the University of Western Australia](www.uwa.edu.au/).
 
 See below for more information.<br/>
-![aag](/UWA Aerial - Sunrise-1.jpg){: style="align: center;  margin-right: 1em;" height="20%" width="20%"}
+![aag](/UWA Aerial - Sunrise-1.jpg){: style="align: center;  margin-right: 1em;" height="100%" width="100%"}
 
 ## Registration
 Registration is free.

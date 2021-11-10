@@ -104,11 +104,13 @@ The list of participants will be updated as registrations come in.
 - Jack Allsop, Monash University
 - Ibrahim  Alotaibi, USYD
 - Iin  Ariyanti, University of Muhammadiyah Banjarmasin
-- Ali  Asiri, Finders University
+- Aldison Asdain, MSU-IIT
+- Ali Asiri, Finders University
 - John Bamberg, The University of Western Australia
 - Santiago Barrera Acevedo, Monash University
 - Alex Bishop, University of Sydney
 - Jim Byrnes, Prometheus Inc.
+- Julius Caadan, Surigao State College of Technology
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
 - Lei Chen, The University of Western Australia
@@ -117,16 +119,19 @@ The list of participants will be updated as registrations come in.
 - Eden Danielsen-Jensen, University of the Sunshine Coast
 - Brian Davey, La Trobe University
 - Alex de Lacy, Monash University
+- Joan Grace Deviente, MSU-IIT
 - Heiko Dietrich, Monash University
 - Dung Duong, University of Wollongong
 - James East, Western Sydney University
 - Murray Elder, University of Technology Sydney
 - Evelyn Gabinete, The University of Sydney
+- Anna Jean Garcia, University of Southern Mindanao
 - Richard Garner, Macquarie University
 - Alejandra Garrido, Universidad Autónoma de Madrid
 - Eugenio Giannelli, Università degli Studi di Firenze
 - Michael Giudici, The University of Western Australia
 - Stephen Glasby, University of Western Australia
+- Roman Gorazd, University of Newcastle
 - Miroslav Haviar, Matej Bel University
 - Daniel Hawtin, University of Rijeka
 - Roozbeh Hazrat, Western Sydney University
@@ -138,10 +143,13 @@ The list of participants will be updated as registrations come in.
 - Mihai-Silviu Lazorec, Faculty of Mathematics, "Alexandru Ioan Cuza" University of Iasi, Romania
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
+- Jeaneth Licaros, University of Southern Mindanao
 - Kevin Limanta, UNSW Sydney
-- Pankaj Kumar  Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
+- Macalisang Macalisang, Mindanao State University - Iligan Institue of Technology
+- Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
 - Kerri Morgan, Deakin University
+- Sandra Nanding, University of Southern Mindanao 
 - Kie Seng Nge, Australian National University
 - Leonard Paleta, University of Southern Mindanao
 - Bregje Pauwels, The University of Sydney
@@ -153,9 +161,11 @@ The list of participants will be updated as registrations come in.
 - Mahendra Rana, Vinoba Bhave University, Hazaribag, India
 - Lawrence Reeves, University of Melbourne
 - Gordon Royle, University of Western Australia
+- Gemma Salasalan, Daval del Sur State College
 - Phill Schultz, UWA
 - Tim Stokes, University of Waikato
 - Darryl Teo, University of Western Australia
+- Rolex Teologia, Mindanao State University-Iligan Institute of Technology
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW

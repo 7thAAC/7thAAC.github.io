@@ -38,7 +38,13 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 
 ## Conference booklet
 
-The conference booklet will be available once registrations have been finalised.
+The conference booklet is available here. It conatains important information, such as the talk abstracts and Zoom links.
+
+## Links
+
+Please refer to the conference booklet for the Zoom links. Each day there is a different link for both Stream A and Stream B.
+
+We would also like to encourage socialisation via Gather. The link is available on the first page of the conference booklet. There will be a few theorems scattered around during the conference... See if you can work out who is responsible for them!
 
 ## Timetable
 

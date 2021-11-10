@@ -38,7 +38,7 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 
 ## Conference booklet
 
-The conference booklet is available here. It conatains important information, such as the talk abstracts and Zoom links.
+[The conference booklet is available here](/AAC05_conference_booklet.pdf). It conatains important information, such as the talk abstracts and Zoom links.
 
 ## Links
 
@@ -48,7 +48,7 @@ We would also like to encourage socialisation via Gather. The link is available 
 
 ## Timetable
 
-Note: Official times are given in Perth time. Local time is intended to be helpful, but it is up to you to check it is correct.
+Note: Official times are given in Perth time (AWST = UTC/GMT + 8 hours). Local time is intended to be helpful, but it is up to you to check it is correct.
 
 #### Wednesday 17th
 

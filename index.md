@@ -154,6 +154,7 @@ The list of participants will be updated as registrations come in.
 - Sandra Nanding, University of Southern Mindanao 
 - Kie Seng Nge, Australian National University
 - Leonard Paleta, University of Southern Mindanao
+- Jennifer Pama, University of Southern Mindanao
 - Bregje Pauwels, The University of Sydney
 - Adam Piggott, Australian National University
 - Tomasz Popiel, University of Auckland

@@ -111,6 +111,7 @@ The list of participants will be updated as registrations come in.
 - Alex Bishop, University of Sydney
 - Jim Byrnes, Prometheus Inc.
 - Julius Caadan, Surigao State College of Technology
+- Lyster Rey Cabardo, Mindanao State University - Iligan Institute of Technology
 - Max Carter, The University of Newcastle
 - Su Yuan Chan, Deakin University
 - Lei Chen, The University of Western Australia
@@ -148,6 +149,7 @@ The list of participants will be updated as registrations come in.
 - Macalisang Macalisang, Mindanao State University - Iligan Institue of Technology
 - Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
+- Francis Gil Miasco, MSU-IIT
 - Kerri Morgan, Deakin University
 - Sandra Nanding, University of Southern Mindanao 
 - Kie Seng Nge, Australian National University

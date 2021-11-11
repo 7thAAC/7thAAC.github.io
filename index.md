@@ -109,6 +109,7 @@ The list of participants will be updated as registrations come in.
 - John Bamberg, The University of Western Australia
 - Santiago Barrera Acevedo, Monash University
 - Alex Bishop, University of Sydney
+- Lyle Leon Butanas, Manticao National High School
 - Jim Byrnes, Prometheus Inc.
 - Julius Caadan, Surigao State College of Technology
 - Lyster Rey Cabardo, Mindanao State University - Iligan Institute of Technology
@@ -136,6 +137,7 @@ The list of participants will be updated as registrations come in.
 - Miroslav Haviar, Matej Bel University
 - Daniel Hawtin, University of Rijeka
 - Roozbeh Hazrat, Western Sydney University
+- Anthony Henderson, The University of Sydney
 - Edmund Heng, Australian National University
 - Tamara Hogan, University of Melbourne 
 - Deborah Jackson, La Trobe University
@@ -151,6 +153,7 @@ The list of participants will be updated as registrations come in.
 - Luke Mathieson, University of Technology Sydney
 - Francis Gil Miasco, MSU-IIT
 - Kerri Morgan, Deakin University
+- Lynnel Naingue, MSU-IIT, Philippines
 - Sandra Nanding, University of Southern Mindanao 
 - Kie Seng Nge, Australian National University
 - Leonard Paleta, University of Southern Mindanao

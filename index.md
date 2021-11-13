@@ -142,13 +142,14 @@ The list of participants will be updated as registrations come in.
 - Tamara Hogan, University of Melbourne 
 - Deborah Jackson, La Trobe University
 - Marcel Jackson, La Trobe University
+- Sarah Johansen, La Trobe University
 - Jesse Lansdown, The University of Western Australia
 - Mihai-Silviu Lazorec, Faculty of Mathematics, "Alexandru Ioan Cuza" University of Iasi, Romania
 - Melissa Lee, University of Auckland
 - Florian Lehner, Graz University of Technology
 - Jeaneth Licaros, University of Southern Mindanao
 - Kevin Limanta, UNSW Sydney
-- Macalisang Macalisang, Mindanao State University - Iligan Institue of Technology
+- Jead Macalisang, Mindanao State University - Iligan Institute of Technology
 - Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
 - Francis Gil Miasco, MSU-IIT
@@ -169,6 +170,7 @@ The list of participants will be updated as registrations come in.
 - Gordon Royle, University of Western Australia
 - Gemma Salasalan, Daval del Sur State College
 - Phill Schultz, UWA
+- Jerry Shen, University of Technology Sydney
 - Tim Stokes, University of Waikato
 - Darryl Teo, University of Western Australia
 - Rolex Teologia, Mindanao State University-Iligan Institute of Technology
@@ -176,6 +178,7 @@ The list of participants will be updated as registrations come in.
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
 - Ivo Vekemans, The Australian National University
+- Stefan Veldsman, Nelson Mandela University; La Trobe University
 - Giada Volpato, Università degli Studi di Firenze
 - Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology

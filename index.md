@@ -150,6 +150,7 @@ The list of participants will be updated as registrations come in.
 - Jeaneth Licaros, University of Southern Mindanao
 - Kevin Limanta, UNSW Sydney
 - Jead Macalisang, Mindanao State University - Iligan Institute of Technology
+- Rowel Madio, University of Southern Mindanao 
 - Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
 - Luke Mathieson, University of Technology Sydney
 - Francis Gil Miasco, MSU-IIT

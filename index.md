@@ -101,6 +101,7 @@ Immediately after the presentation of the Gordon Preston Prize, we intend to tak
 The list of participants will be updated as registrations come in.
 
 - Ramon Abud Alcala, Macquarie University
+- Azeef Muhammed Ajmal, Western Sydney University
 - Jack Allsop, Monash University
 - Ibrahim  Alotaibi, USYD
 - Iin  Ariyanti, University of Muhammadiyah Banjarmasin

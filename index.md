@@ -151,23 +151,28 @@ The list of participants will be updated as registrations come in.
 - Kevin Limanta, UNSW Sydney
 - Jead Macalisang, Mindanao State University - Iligan Institute of Technology
 - Rowel Madio, University of Southern Mindanao 
-- Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India. 
+- Pankaj Kumar Manjhi, University Department of Mathematics, Vinoba Bhave University Hazaribag, India.
 - Luke Mathieson, University of Technology Sydney
+- Robert McDougall, University of the Sunshine Coast
 - Francis Gil Miasco, MSU-IIT
 - Kerri Morgan, Deakin University
 - Lynnel Naingue, MSU-IIT, Philippines
-- Sandra Nanding, University of Southern Mindanao 
+- Sandra Nanding, University of Southern Mindanao
+- Mike Newman, ANU
 - Kie Seng Nge, Australian National University
 - Leonard Paleta, University of Southern Mindanao
 - Jennifer Pama, University of Southern Mindanao
 - Bregje Pauwels, The University of Sydney
+- Jordan Pertile, University of the Sunshine Coast
 - Adam Piggott, Australian National University
+- Jupiter Pilongo, University of Southern Mindanao
 - Tomasz Popiel, University of Auckland
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
 - Youming Qiao, University of Technology Sydney
 - Mahendra Rana, Vinoba Bhave University, Hazaribag, India
 - Lawrence Reeves, University of Melbourne
+- Colin Reid, University of Newcastle
 - Gordon Royle, University of Western Australia
 - Gemma Salasalan, Daval del Sur State College
 - Phill Schultz, UWA
@@ -180,6 +185,7 @@ The list of participants will be updated as registrations come in.
 - Ilknur Tulunay, UNSW
 - Ivo Vekemans, The Australian National University
 - Stefan Veldsman, Nelson Mandela University; La Trobe University
+- Gabriel Verret, University of Auckland
 - Giada Volpato, Università degli Studi di Firenze
 - Ian Wanless, Monash University
 - Muhammad Siddiq Wira Awaldy, Bandung Institute of Technology

@@ -168,6 +168,7 @@ The list of participants will be updated as registrations come in.
 - Jordan Pertile, University of the Sunshine Coast
 - Adam Piggott, Australian National University
 - Jupiter Pilongo, University of Southern Mindanao
+- João Vitor Pinto e Silva, University of Newcastle
 - Tomasz Popiel, University of Auckland
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia

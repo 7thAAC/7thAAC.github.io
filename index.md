@@ -13,7 +13,7 @@ See below for more information.<br/>
 ## Registration
 Registration is free.
 
-- **Registration closes**: 16th of November, 2021
+- **Registration closes**: 16th of November, 2021 - **CLOSED**
 - **Abstract and contributed talk submission**: 3rd of November, 2021 - **CLOSED**
 
 If you wish to give a contributed talk, please send your title and abstract to [5th.Australian.Algebra.Conference@gmail.com](mailto:5th.Australian.Algebra.Conference@gmail.com) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
@@ -134,6 +134,7 @@ The list of participants will be updated as registrations come in.
 - Eugenio Giannelli, Università degli Studi di Firenze
 - Michael Giudici, The University of Western Australia
 - Stephen Glasby, University of Western Australia
+- Daniel Glasson, RMIT University
 - Roman Gorazd, University of Newcastle
 - Miroslav Haviar, Matej Bel University
 - Daniel Hawtin, University of Rijeka

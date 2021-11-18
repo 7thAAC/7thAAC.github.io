@@ -172,6 +172,7 @@ The list of participants will be updated as registrations come in.
 - Tomasz Popiel, University of Auckland
 - John Power, Macquarie University
 - Cheryl Praeger, The University of Western Australia
+- Lorenzo Putignano, Università degli Studi di Firenze
 - Youming Qiao, University of Technology Sydney
 - Mahendra Rana, Vinoba Bhave University, Hazaribag, India
 - Lawrence Reeves, University of Melbourne
@@ -186,6 +187,7 @@ The list of participants will be updated as registrations come in.
 - Lauren Thornton, University of the Sunshine Coast
 - Kane Townsend, The University of Sydney
 - Ilknur Tulunay, UNSW
+- Julien Ugon, Deakin University
 - Ivo Vekemans, The Australian National University
 - Stefan Veldsman, Nelson Mandela University; La Trobe University
 - Gabriel Verret, University of Auckland

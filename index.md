@@ -96,10 +96,7 @@ Note: Official times are given in Perth time (AWST = UTC/GMT + 8 hours). Local t
 Immediately after the presentation of the Gordon Preston Prize, we intend to take a conference "photo". This will simply be a screenshot of the Zoom participants. If you want to be part of this, please make sure to be present with you camera turned on! We will email this to anyone who is interested, as well as posting it here.
 
 {:refdef: style="text-align: center;"}
-![My Image](/ConferencePhoto1.png)
-{: refdef}
-{:refdef: style="text-align: center;"}
-![My Image](/ConferencePhoto2.png)
+![My Image](/ConferencePhoto.png)
 {: refdef}
 
 

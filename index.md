@@ -1,30 +1,38 @@
-## Details
-![aag](/M3trans.png){: style="float: left;  margin-right: 2em;" height="20%" width="20%"} The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
+We welcome you to the **7th Australian Algebra Conference**, to be held at **Monash University** (Clayton Campus in Melbourne), from **November 22-24, 2023**.
 
-- **Dates**: Wednesday November 17 - Friday November 19, 2021. 
-- **Times**: 12:00 PM - 5:00 PM Perth time (should be <script> var date = new Date('Wed, 17 Nov 2021 04:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> - <script> var date = new Date('Wed, 17 Nov 2021 09:00:00 GMT');document.write(date.toLocaleTimeString(navigator.language, {hour: '2-digit', minute:'2-digit'}));</script> your time).
-- **Venue**: Online, hosted by the [Centre for the Mathematics of Symmetry and Computation](https://www.cmsc.io/), [the University of Western Australia](www.uwa.edu.au/).
+The main aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra quite broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
-See below for more information.<br/>
-{:refdef: style="text-align: center;"}
-![My Image](/UWA Aerial - Sunrise-1.jpg)
-{: refdef}
+The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
+
+
 
 ## Registration
-Registration is free.
+Please see below for the schedule of conference registration fees.
 
-- **Registration closes**: 16th of November, 2021 - **CLOSED**
-- **Abstract and contributed talk submission**: 3rd of November, 2021 - **CLOSED**
+**Students:** $0
+**Members of the Australian Algebra Group:** $0
+**Members of AustMS who are not members of AAG:** $30
+**Non-members of AustMS:** $40
 
-If you wish to give a contributed talk, please send your title and abstract to [5th.Australian.Algebra.Conference@gmail.com](mailto:5th.Australian.Algebra.Conference@gmail.com) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
+The registration fee will cover morning and afternoon tea, as well as a barbecue lunch on one of the days of the conference.
+
+We will also have an individually funded conference dinner.
+
+There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
+
+The allocation of funding will be communicated to applicants before registration closes.
+
+**Travel support applications due:** 29th September 2023
+
+**Registration closes:** 3rd November 2023
+
+**Abstract deadline:** 3rd November 2023
+
+If you wish to give a contributed talk, please send your title and abstract to [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
 **Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk - don't let this hold you back!
 
-- **To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_hwzoE3pEZTgJG2SXZ1RqtzguACgpOL2jfu5ESBEh25oe6g/viewform?usp=sf_link).**
-<details>
-<summary>Registration form not working? click here.</summary>
-If the registration link is blocked from you location, you can register by emailing us directly at 5th.Australian.Algebra.Conference@gmail.com with the following information: first name / last name / affiliation / are you giving a contributed talk? / are you eligible for the Gordon Preston Prize (student talk)?
-</details>
+- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).**
 
 ## Invited speakers
 

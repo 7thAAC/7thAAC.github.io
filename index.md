@@ -10,8 +10,11 @@ The conference has a proud tradition of encouraging talks by students: typically
 Please see below for the schedule of conference registration fees.
 
 **Students:** $0
+
 **Members of the Australian Algebra Group:** $0
+
 **Members of AustMS who are not members of AAG:** $30
+
 **Non-members of AustMS:** $40
 
 The registration fee will cover morning and afternoon tea, as well as a barbecue lunch on one of the days of the conference.

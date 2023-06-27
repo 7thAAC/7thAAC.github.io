@@ -46,7 +46,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 ## Gordon Preston Prize
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
-
+ <! -- 
 ## Conference booklet
 
 [The conference booklet is available here](/AAC05_conference_booklet.pdf). It conatains important information, such as the talk abstracts and Zoom links.
@@ -217,10 +217,10 @@ The list of participants will be updated as registrations come in.
   
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.
-
+-->
 ## Organisers
-- [John Bamberg](https://johnbamberg.github.io/), the University of Western Australia
-- [Jesse Lansdown](https://www.jesselansdown.com/), the University of Western Australia
-- [Michael Giudici](https://research-repository.uwa.edu.au/en/persons/michael-giudici), the University of Western Australia
-- [Stephen Glasby](https://stephenglasby.github.io/), the University of Western Australia
-- [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger), the University of Western Australia
+- [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity
+- [Heiko Dietrich](https://users.monash.edu/~heikod/), Monash Unversity
+- [Melissa Lee](https://melissamaths.wordpress.com/), Monash Unversity
+- [Tomasz Popiel](https://tomasz-popiel.github.io/index.html), Monash Unversity
+

@@ -220,7 +220,7 @@ The list of participants will be updated as registrations come in.
 ## Talk slides and recordings
 The current default is that talks will be recorded. If you do not want your talk to be recorded, please let us know. In any case, no recordings will be made available without the explicit consent of the speaker.
 
--->
+ -->
 
 ## Organisers
 - [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity

@@ -39,7 +39,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 ## Invited speakers
 
-| <img src="avatar.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="PHOTO-2021-09-10-12-48-52.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="Lee_Photo2.png" style="object-fit:cover;width:150px;height:225px;"> |
+| <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="colva.jpg" style="object-fit:cover;width:150px;height:225px;"> | <img src="geertrui" style="object-fit:cover;width:150px;height:225px;"> |
 |:--:|:--:|:--:|
 [Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde]((https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
 

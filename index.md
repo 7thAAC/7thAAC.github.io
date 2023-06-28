@@ -4,6 +4,11 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
+## Invited speakers
+
+| <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="colva2.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:150px;height:175px;"> |
+|:--:|:--:|:--:|
+[Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
 
 
 ## Registration
@@ -41,15 +46,26 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 - **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).**
 
-## Invited speakers
-
-| <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="colva2.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:150px;height:175px;"> |
-|:--:|:--:|:--:|
-[Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde]((https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
 
 ## Gordon Preston Prize
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
+
+## Local Information
+The conference will be held at the Clayton campus of Monash University in Melbourne.
+
+All talks will be held in Lecture Theatre South 1 (43 Rainforest Walk), close to the bus loop: please see the Clayton Campus Map for details (a static version of the map is available here).
+
+The Clayton campus is located about 25km south-east of the Melbourne CBD.
+
+Here are some suggestions for accommodation close to Monash Clayton campus:
+
+Clayton Serviced Apartments
+Quest Notting Hill Serviced Apartments
+Gateway on Monash Hotel
+ParkRoyal Monash Hotel 
+
+If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
 
 
 ## Organisers

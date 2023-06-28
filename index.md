@@ -25,11 +25,15 @@ There is limited travel support available for students. If you would like to app
 
 The allocation of funding will be communicated to applicants before registration closes.
 
+## Deadlines
+
 **Travel support applications due:** 29th September 2023
 
 **Registration closes:** 3rd November 2023
 
 **Abstract deadline:** 3rd November 2023
+
+## Talks 
 
 If you wish to give a contributed talk, please send your title and abstract to [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 

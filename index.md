@@ -16,7 +16,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 | <img src="eamonn.jpg" style="object-fit:cover;width:193px;height:225px;"> | <img src="new_colva.png" style="object-fit:cover;width:193px;height:225px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:193px;height:225px;"> |
 |:--:|:--:|:--:|
-[Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
+[Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury, New Zealand. |
 
 
 <h2 id="rego">Registration</h2>
@@ -39,6 +39,9 @@ There is limited travel support available for students. If you would like to app
 
 The allocation of funding will be communicated to applicants before registration closes.
 
+**To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).**
+
+
 <h2 id="dead">Deadlines</h2>
 
 **Travel support applications due:** 29th September 2023
@@ -53,7 +56,6 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 **Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk - don't let this hold you back!
 
-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).**
 
 
 ## Gordon Preston Prize
@@ -61,20 +63,37 @@ If you wish to give a contributed talk, please send your title and abstract to [
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
 <h2 id="local">Local Information</h2>
-The conference will be held at the Clayton campus of Monash University in Melbourne.
 
-All talks will be held in Lecture Theatre South 1 (43 Rainforest Walk), close to the bus loop: please see the Clayton Campus Map for details (a static version of the map is available here).
-
-The Clayton campus is located about 25km south-east of the Melbourne CBD.
-
-Here are some suggestions for accommodation close to Monash Clayton campus:
-
-Clayton Serviced Apartments
-Quest Notting Hill Serviced Apartments
-Gateway on Monash Hotel
-ParkRoyal Monash Hotel 
-
-If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+<body>
+<p>
+	The conference will be held at the Clayton campus of Monash University in Melbourne.
+</p>
+<p>
+	All talks will be held in Lecture Theatre South 1 (43 Rainforest Walk), close to the bus loop: please see the <a href="https://maps.monash.edu/#v=1&amp;zlevel=2&amp;center=145.131116,-37.913012&amp;zoom=17.12&amp;campusid=159&amp;sharepoitype=poi&amp;sharepoi=1217534">Clayton Campus Map</a> for details (a static version of the map is available <a href="https://www.monash.edu/__data/assets/pdf_file/0004/2658973/Clayton-campus-map.pdf">here</a>).
+</p>
+<img width="250" alt="venue1" src="https://github.com/melissa-maths/aac07.github.com/assets/132030158/56f517d1-9402-4795-8ad3-b74f2e1e03ac">
+<p>
+	The Clayton campus is located about 25km south-east of the Melbourne CBD.
+</p>
+<p>
+	Here are some suggestions for accommodation close to Monash Clayton campus:
+</p>
+<ul>
+	<li><a href="https://claytonservicedapartments.com/">Clayton Serviced Apartments</a></li>
+	<li><a href="https://www.questapartments.com.au/properties/vic/notting-hill/quest-notting-hill">Quest Notting Hill Serviced Apartments</a></li>
+	<li><a href="https://www.gatewayonmonash.com.au/">Gateway on Monash Hotel</a></li>
+	<li><a href="https://www.google.com/aclk?sa=l&amp;ai=DChcSEwj6iPa665T-AhUOk2YCHe7fDpUYABADGgJzbQ&amp;sig=AOD64_3dMB9HbDR4j1CN5jX1_cuKG8n8-g&amp;q&amp;adurl&amp;ved=2ahUKEwjwje-665T-AhX4T2wGHXtfD6AQ0Qx6BAgKEAE">ParkRoyal Monash Hotel&nbsp;</a></li>
+</ul>
+<p>
+	If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
+</p>
+</body>
+</html>
+<img width="500" alt="bus route" src="https://github.com/melissa-maths/aac07.github.com/assets/132030158/ef9d5ba4-8406-417f-87c9-8a901bcdfa8a">
 
 
 <h2 id="us">Organisers</h2>

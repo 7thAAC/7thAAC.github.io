@@ -1,4 +1,11 @@
-We welcome you to the **7th Australian Algebra Conference**, to be held at **Monash University** (Clayton Campus in Melbourne), from **November 22-24, 2023**.
+## Details
+![aag](/M3trans.png){: style="float: left;  margin-right: 2em;" height="20%" width="20%"} The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
+
+- **Dates**: Wednesday November 22 - Friday November 24, 2023. 
+- **Venue**: Monash University Clayton campus, Melbourne.
+
+  ![monash](https://github.com/melissa-maths/aac07.github.com/assets/132030158/8dbf08d7-9959-43b5-b119-f94d480b1dc0)
+
 
 The main aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra quite broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
@@ -23,13 +30,35 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 Please see below for the schedule of conference registration fees.
 
-**Students:** $0
+<html>
+<table class="unstyledTable">
+<thead>
+<tr>
+<th>Category</th>
+<th>Fee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Students</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Members of the Australian Algebra Group (AAG)</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Members of AustMS but not AAG</td>
+<td>$30</td>
+</tr>
+<tr>
+<td>Non-members</td>
+<td>$40</td>
+</tr>
+</tbody>
+</table>
+</html>
 
-**Members of the Australian Algebra Group:** $0
-
-**Members of AustMS who are not members of AAG:** $30
-
-**Non-members of AustMS:** $40
 
 The registration fee will cover morning and afternoon tea, as well as a barbecue lunch on one of the days of the conference.
 

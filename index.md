@@ -14,7 +14,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 <h2 id="inv-sp">Invited speakers</h2>
 
-| <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="colva2.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:150px;height:175px;"> |
+| <img src="eamonn.jpg" style="object-fit:cover;width:193px;height:225px;"> | <img src="new_colva.png" style="object-fit:cover;width:193px;height:225px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:193px;height:225px;"> |
 |:--:|:--:|:--:|
 [Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
 

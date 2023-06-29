@@ -4,15 +4,23 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
-<a href="#section-2">Jump to section 2</a><br />
+## Jump to
+<a href="#inv-sp">Invited speakers</a><br />
+<a href="#rego">Registration</a><br />
+<a href="#dead">Deadlines</a><br />
+<a href="#talks">Talks</a><br />
+<a href="#local">Local Information</a><br />
+<a href="#us">Organisers</a><br />
 
-## Invited speakers
+<h2 id="inv-sp">Invited speakers</h2>
 
 | <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="colva2.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:150px;height:175px;"> |
 |:--:|:--:|:--:|
 [Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
 
-## Registration
+
+<h2 id="rego">Registration</h2>
+
 Please see below for the schedule of conference registration fees.
 
 **Students:** $0
@@ -31,7 +39,7 @@ There is limited travel support available for students. If you would like to app
 
 The allocation of funding will be communicated to applicants before registration closes.
 
-## Deadlines
+<h2 id="dead">Deadlines</h2>
 
 **Travel support applications due:** 29th September 2023
 
@@ -39,7 +47,7 @@ The allocation of funding will be communicated to applicants before registration
 
 **Abstract deadline:** 3rd November 2023
 
-## Talks 
+<h2 id="talks">Talks</h2>
 
 If you wish to give a contributed talk, please send your title and abstract to [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
@@ -52,7 +60,7 @@ If you wish to give a contributed talk, please send your title and abstract to [
 
 The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize) is awarded for the best presentation at the AAC given by a current student based at an Australian or overseas university. The presentations will be judged by a panel appointed by the executive committee. The winner of the prize will receive $300. [The Rules](https://sites.google.com/a/ltumathstats.com/austalg/rules-for-the-gordon-preston-prize) for the Gordon Preston Prize are available on the website of the Australian Algebra Group. 
 
-## Local Information
+<h2 id="local">Local Information</h2>
 The conference will be held at the Clayton campus of Monash University in Melbourne.
 
 All talks will be held in Lecture Theatre South 1 (43 Rainforest Walk), close to the bus loop: please see the Clayton Campus Map for details (a static version of the map is available here).
@@ -68,9 +76,8 @@ ParkRoyal Monash Hotel
 
 If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
 
-<h2 id="section-2">Section 2</h2>
 
-## Organisers
+<h2 id="us">Organisers</h2>
 - [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity
 - [Heiko Dietrich](https://users.monash.edu/~heikod/), Monash Unversity
 - [Melissa Lee](https://melissamaths.wordpress.com/), Monash Unversity

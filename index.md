@@ -78,6 +78,7 @@ If choosing to stay in the city instead, participants can reach the campus fairl
 
 
 <h2 id="us">Organisers</h2>
+
 - [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity
 - [Heiko Dietrich](https://users.monash.edu/~heikod/), Monash Unversity
 - [Melissa Lee](https://melissamaths.wordpress.com/), Monash Unversity

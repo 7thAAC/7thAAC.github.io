@@ -4,12 +4,13 @@ The main aim of the annual Australian Algebra Conference is to foster communicat
 
 The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
 
+<a href="#section-2">Jump to section 2</a><br />
+
 ## Invited speakers
 
 | <img src="eamonn.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="colva2.jpg" style="object-fit:cover;width:150px;height:175px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:150px;height:175px;"> |
 |:--:|:--:|:--:|
 [Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html)), University of Canterbury, New Zealand. |
-
 
 ## Registration
 Please see below for the schedule of conference registration fees.
@@ -67,6 +68,7 @@ ParkRoyal Monash Hotel
 
 If choosing to stay in the city instead, participants can reach the campus fairly easily by taking the Pakenham/Cranbourne train to Huntingdale, and then taking the 601 shuttle bus. This journey takes around 30-45min and both legs run regularly.
 
+<h2 id="section-2">Section 2</h2>
 
 ## Organisers
 - [Santiago Barrera Acevedo](https://users.monash.edu/~sacevedo/), Monash Unversity

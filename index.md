@@ -1,7 +1,7 @@
 ## Details
 ![aag](/M3trans.png){: style="float: left;  margin-right: 2em;" height="20%" width="20%"} 
 
-The aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
+
 
 - **Dates**: Wednesday November 22 - Friday November 24, 2023. 
 - **Venue**: Monash University Clayton campus, Melbourne.
@@ -85,7 +85,7 @@ The allocation of funding will be communicated to applicants before registration
 
 If you wish to give a contributed talk, please send your title and abstract to [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
 
-**Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk - don't let this hold you back!
+**Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk.
 
 
 

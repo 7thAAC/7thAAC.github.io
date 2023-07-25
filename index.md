@@ -62,6 +62,8 @@ Please see below for the schedule of conference registration fees.
 </html>
 
 
+Registration fees should be paid via bank transfer - more details will be emailed to you once you register.
+
 The registration fee will cover morning and afternoon tea, as well as a barbecue lunch on one of the days of the conference.
 
 We will also have an individually funded conference dinner.

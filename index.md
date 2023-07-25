@@ -1,12 +1,12 @@
-## Details
-![aag](/M3trans.png){: style="float: left;  margin-right: 2em;" height="20%" width="20%"} 
+
+
+  ![monash](https://github.com/melissa-maths/aac07.github.com/assets/132030158/8dbf08d7-9959-43b5-b119-f94d480b1dc0)
 
 
 
 - **Dates**: Wednesday November 22 - Friday November 24, 2023. 
 - **Venue**: Monash University Clayton campus, Melbourne.
 
-  ![monash](https://github.com/melissa-maths/aac07.github.com/assets/132030158/8dbf08d7-9959-43b5-b119-f94d480b1dc0)
 
 
 The main aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra quite broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).

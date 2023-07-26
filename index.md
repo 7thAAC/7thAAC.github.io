@@ -212,6 +212,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
   <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Colva Roney-Dougal </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of St. Andrews</span></td>
+  </tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Vandit Trivedi </span></td>
     <td class="tg-0lax">Australian National University</td>
   </tr>

@@ -180,6 +180,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
   <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Matthias Fresacher </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
+  </tr>
+  <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Western Australia</span></td>
   </tr>

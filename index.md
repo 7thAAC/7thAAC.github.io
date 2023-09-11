@@ -67,7 +67,7 @@ Registration fees should be paid via bank transfer - more details will be emaile
 
 The registration fee will cover morning and afternoon tea, as well as a barbecue lunch on one of the days of the conference.
 
-We will also have an individually funded conference dinner.
+We will also have an individually funded conference dinner at the [Notting Hill Hotel](https://www.nottinghillhotel.com.au/) on Thursday 23rd November.
 
 There is limited travel support available for students. If you would like to apply for this support, please email [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) with a letter of support from your supervisor and an approximate budget of your expenses.
 

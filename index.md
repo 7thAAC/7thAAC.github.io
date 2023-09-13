@@ -144,6 +144,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
+      <tr>
+        <td>Guillermo Badia</td>
+        <td>University of Queensland</td>
+    </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Santiago Barrera Acevedo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
@@ -184,6 +188,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Victor Fagundes </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
+      <tr>
+        <td>Saul Freedman</td>
+        <td>The University of Western Australia</td>
+    </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Matthias Fresacher </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
@@ -192,6 +200,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Western Australia</span></td>
   </tr>
+      <tr>
+        <td>Joe Gurr</td>
+        <td>UNSW</td>
+    </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Deborah Jackson </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
@@ -208,6 +220,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
+      <tr>
+        <td>Peter McNamara</td>
+        <td>University of Melbourne</td>
+    </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Đorđe Mitrović </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Auckland</span></td>

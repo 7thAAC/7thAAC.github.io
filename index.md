@@ -158,6 +158,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Anton Baykalov</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Western Australia</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">James Carr</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Queensland</span></td>
+  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Marston Conder</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Auckland</span></td>
@@ -214,6 +218,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Marcel Jackson </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">David Jefferies </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Seethalakshmi Kayanattath </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
@@ -221,6 +229,14 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Jean-Simon Pacaud Lemay </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Macquarie University</span></td>
+  </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Ari Markowitz </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Auckland</span></td>
   </tr>
       <tr>
         <td>Peter McNamara</td>

@@ -212,6 +212,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
         <td>Soichiro Fujii</td>
         <td>Macquarie University</td>
     </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Barry Gardner </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">University of Tasmania</span></td>
+  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Western Australia</span></td>
@@ -219,6 +223,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
       <tr>
         <td>Joe Gurr</td>
         <td>UNSW</td>
+    </tr>
+<tr>
+        <td>Eli Hazel</td>
+        <td>Macquarie University</td>
     </tr>
         <tr>
         <td>Joshua Howie</td>
@@ -276,6 +284,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Eamonn O'Brien </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Auckland</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Padraig Ó Catháin </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Dublin City University</span></td>
+  </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Adam Piggott </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
@@ -304,6 +316,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
         <td>Jackson Ryder</td>
         <td>UNSW</td>
     </tr>
+	<tr>
+        <td>Jeroen Schillewaert</td>
+        <td>University of Auckland</td>
+    </tr>
       <tr>
         <td>Jerry Shen</td>
         <td>University of Technology Sydney</td>
@@ -326,6 +342,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
   </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Ian Wanless </span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Michael Wynne </span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
      <tr>

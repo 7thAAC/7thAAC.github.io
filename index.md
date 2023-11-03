@@ -33,6 +33,9 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 <h2 id="rego">Registration</h2>
 
+**Registration is now closed!**
+
+
 Please see below for the schedule of conference registration fees.
 
 <html>
@@ -75,7 +78,7 @@ There is limited travel support available for students. If you would like to app
 
 The allocation of funding will be communicated to applicants before registration closes.
 
-**To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).**
+<!-- **To register, please fill in [this form](https://forms.gle/HifdrEdRzJRnovBd6).** -->
 
 
 <h2 id="dead">Deadlines</h2>

@@ -34,7 +34,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 
 <h2 id="schedule">Schedule</h2>
 
-Please click <a href="https://github.com/7thAAC/7thAAC.github.io/blob/752d4733a287bdb199ee6181bec7eb1445d7199e/AAC%20timetable%20v.2.pdf">here</a> to view the conference schedule.
+Please click <a href="AAC timetable v.2.pdf">here</a> to view the conference schedule.
 
 <h2 id="rego">Registration</h2>
 

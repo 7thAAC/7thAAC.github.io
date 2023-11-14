@@ -16,8 +16,8 @@ The conference has a proud tradition of encouraging talks by students: typically
 **Attention**: We have learned that some unsolicited travel/service e-mails have been sent out to conference attendees. These e-mails have nothing to do with the conference, and we ask you to treat these with caution.
 
 ## Jump to
-<a href="#inv-sp">Invited speakers</a><br />
 <a href="#schedule">Schedule</a><br />
+<a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#dead">Deadlines</a><br />
 <a href="#talks">Talks</a><br />
@@ -25,16 +25,20 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#them">Registered Participants</a><br />
 <a href="#us">Organisers</a><br />
 
+
+<h2 id="schedule">Schedule and Information Booklet</h2>
+
+Please click <a href="BOA-AAC07.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule. 
+The schedule itself can also be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
+ 
+
+
 <h2 id="inv-sp">Invited speakers</h2>
 
 | <img src="eamonn.jpg" style="object-fit:cover;width:193px;height:225px;"> | <img src="new_colva.png" style="object-fit:cover;width:193px;height:225px;"> | <img src="geertrui.jpg" style="object-fit:cover;width:193px;height:225px;"> |
 |:--:|:--:|:--:|
 [Eamonn O'Brien](https://www.math.auckland.ac.nz/~obrien/), University of Auckland, New Zealand. | [Colva Roney-Dougal](https://www.st-andrews.ac.uk/mathematics-statistics/people/cmr1/), University of St. Andrews, UK. |[Geertrui Van de Voorde](https://www.canterbury.ac.nz/engineering/contact-us/people/geertrui-van-de-voorde.html), University of Canterbury, New Zealand. |
 
-
-<h2 id="schedule">Schedule</h2>
-
-Please click <a href="AAC timetable v.2.pdf">here</a> to view the conference schedule.
 
 <h2 id="rego">Registration</h2>
 

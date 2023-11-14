@@ -29,7 +29,10 @@ The conference has a proud tradition of encouraging talks by students: typically
 <h2 id="schedule">Schedule and Information Booklet</h2>
 
 Please click <a href="BOA-AAC07.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule. 
-The schedule itself can also be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
+
+The schedule itself is also shown below, and can be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
+
+<img src="schedule.png" width=80%></img>
  
 
 

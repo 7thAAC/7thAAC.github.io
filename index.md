@@ -16,7 +16,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 **Attention**: We have learned that some unsolicited travel/service e-mails have been sent out to conference attendees. These e-mails have nothing to do with the conference, and we ask you to treat these with caution.
 
 ## Jump to
-<a href="#schedule">Schedule</a><br />
+<a href="#schedule">Schedule and Information Booklet</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#dead">Deadlines</a><br />

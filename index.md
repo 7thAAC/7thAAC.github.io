@@ -100,11 +100,9 @@ The allocation of funding will be communicated to applicants before registration
 
 <h2 id="talks">Talks</h2>
 
+ <img src="timetable.png" width="800">
+
 **Please note: All talk slots are now filled. If you would like to join the waiting list for talk slots, or if you have any questions or concerns, please email [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC).**
-
-If you have registered for a contributed talk, please send your title and abstract to [Santiago Barrera Acevedo](mailto:santiago.barrera.acevedo@monash.edu?subject=Student%20funding%20application%20for%20AAC) by the 3rd of November. Contributed talks will be 20 minutes plus questions. Please use simple LaTeX format (avoiding macros - think arXiv abstract format).
-
-**Note, you do not need to have your title/abstract ready in order to register.** If we do not receive an abstract by the 3rd of November, we will simply assume that you have decided not to give a talk.
 
 
 

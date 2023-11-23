@@ -16,7 +16,7 @@ The conference has a proud tradition of encouraging talks by students: typically
 **Attention**: We have learned that some unsolicited travel/service e-mails have been sent out to conference attendees. These e-mails have nothing to do with the conference, and we ask you to treat these with caution.
 
 ## Jump to
-<a href="#schedule">Schedule and Information Booklet</a><br />
+<a href="#schedule">Schedule, Transport and Information Booklet</a><br />
 <a href="#inv-sp">Invited speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#dead">Deadlines</a><br />
@@ -26,13 +26,13 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#us">Organisers</a><br />
 
 
-<h2 id="schedule">Schedule and Information Booklet</h2>
+<h2 id="schedule">Schedule, Transport and Information Booklet</h2>
 
 Please click <a href="BOA-AAC07.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule. 
 
 The schedule itself is also shown <a href="#talks">below</a>, and can be downloaded separately <a href="AAC timetable v.2.pdf">here</a>.
  
-
+If you would like to try to organise a carpool to the airport with other participants, please see [this spreadsheet.](https://docs.google.com/spreadsheets/d/1lSGkrxpyUjRvsC2_32R-xB2fgvJKpG-BZk0TkDq1HCY/edit?usp=sharing)
 
 <h2 id="inv-sp">Invited speakers</h2>
 

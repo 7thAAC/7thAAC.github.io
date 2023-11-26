@@ -25,6 +25,8 @@ The conference has a proud tradition of encouraging talks by students: typically
 <a href="#them">Registered Participants</a><br />
 <a href="#us">Organisers</a><br />
 
+<h2 id="photo">Conference photo</h2>
+<img src="20231126_113807.jpg" style="object-fit:cover;width:800px;"> 
 
 <h2 id="schedule">Schedule, Transport and Information Booklet</h2>
 
